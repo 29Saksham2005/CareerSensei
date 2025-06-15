@@ -1,49 +1,63 @@
-# Career Sensei - Phase 1
+# Career Sensei
 
-## Phase 1 Features
-- Modern cyberpunk-themed GUI interface
-- Goal and task management system
-- AI-powered career and goal suggestions
-- Real-time analytics dashboard
-- Task completion tracking
-- Data persistence
+I created Career Sensei to help professionals and students plan, track, and accelerate their career growth. This desktop application uses a modern, modular interface and leverages local AI (Mistral via Ollama) to provide personalized career advice—all while keeping your data private.
 
-### Key Components
-1. **Goal Management**
-   - Create and manage multiple goals
-   - Add tasks with due dates and subtasks
-   - Mark tasks as complete
-   - Delete tasks
-   - Hide completed tasks
+## 🌟 Features
 
-2. **AI Suggestions**
-   - Career path recommendations
-   - Goal and task suggestions
-   - Personalized planning
+- **Goal Management:** Set, track, and achieve your career milestones.
+- **Local AI Suggestions:** Get tailored career recommendations using Mistral AI running on your own machine.
+- **Progress Analytics:** Visualize your growth and stay motivated.
+- **Smart Notifications:** Receive reminders and celebrate your achievements.
+- **Profile Management:** Maintain your skills and career objectives in one place.
 
-3. **Analytics Dashboard**
-   - Goal-specific progress tracking
-   - Task completion trends
-   - Weekly and monthly progress views
-   - Overall goals analysis
+## 🚀 Getting Started
 
-## How to Run
-1. Ensure Python is installed
-2. Navigate to the project directory
-3. Run `python vevn/main.py`
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/29Saksham2005/CareerSensei.git
+   cd CareerSensei
+   ```
 
-## Rollback Instructions
-To rollback to Phase 1:
-1. Delete the current `vevn` directory
-2. Copy the contents from `phase_backups/phase1` to `vevn`
-3. Run the application as normal
+2. **Set up your environment:**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   pip install -r requirements.txt
+   ```
 
-## Phase 1 Completion Date
-Completed on: [Current Date]
+3. **Install Ollama and pull the Mistral model:**
+   ```bash
+   # Download Ollama from https://ollama.ai
+   ollama pull mistral
+   ```
 
-## Next Steps
-Future phases will focus on:
-- Enhanced AI capabilities
-- More detailed analytics
-- User profile management
-- Additional customization options 
+4. **Run the application:**
+   ```bash
+   python main.py
+   ```
+
+## 🛠️ Tech Stack
+
+- Python 3.8+
+- Tkinter for the GUI
+- Mistral AI via Ollama for local, private AI suggestions
+- JSON for data storage
+
+## 📋 Requirements
+
+- Python 3.8 or higher
+- Ollama with the Mistral model installed
+- Windows 10+, macOS 10.14+, or Linux
+- 8GB+ RAM recommended for AI features
+
+## 🤝 Contributing
+
+I welcome contributions! Please open an issue or submit a pull request if you'd like to help improve Career Sensei.
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 📞 Contact
+
+For support or questions, please open an issue in this repository. 
