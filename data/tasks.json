@@ -1,0 +1,156 @@
+{
+    "asd": [],
+    "nothing": [],
+    "data scientist": [
+        {
+            "description": "sleep",
+            "due_date": "",
+            "subtasks": [],
+            "completed": false
+        }
+    ],
+    "Master Python Development": [
+        {
+            "description": "Complete advanced Python course",
+            "due_date": "2024-04-30",
+            "subtasks": [
+                "Learn OOP",
+                "Study design patterns"
+            ],
+            "completed": true
+        },
+        {
+            "description": "Build a portfolio project",
+            "due_date": "2024-05-15",
+            "subtasks": [
+                "Choose project idea",
+                "Set up repository"
+            ],
+            "completed": false
+        }
+    ],
+    "Learn Web Development": [
+        {
+            "description": "Study HTML/CSS fundamentals",
+            "due_date": "2024-04-20",
+            "subtasks": [],
+            "completed": true
+        },
+        {
+            "description": "Learn JavaScript basics",
+            "due_date": "2024-05-01",
+            "subtasks": [
+                "Study DOM manipulation",
+                "Practice with exercises"
+            ],
+            "completed": false
+        }
+    ],
+    "Learn Python Programming": [
+        {
+            "description": "Complete Python basics course",
+            "due_date": "2024-04-01",
+            "subtasks": [
+                "Install Python",
+                "Learn syntax",
+                "Practice basic exercises"
+            ],
+            "completed": false
+        },
+        {
+            "description": "Build a simple project",
+            "due_date": "2024-04-15",
+            "subtasks": [
+                "Choose project idea",
+                "Design architecture",
+                "Implement features"
+            ],
+            "completed": false
+        },
+        {
+            "description": "Complete Python basics course",
+            "due_date": "2024-04-01",
+            "subtasks": [
+                "Install Python",
+                "Learn syntax",
+                "Practice basic exercises"
+            ],
+            "completed": false
+        },
+        {
+            "description": "Build a simple project",
+            "due_date": "2024-04-15",
+            "subtasks": [
+                "Choose project idea",
+                "Design architecture",
+                "Implement features"
+            ],
+            "completed": false
+        }
+    ],
+    "Improve Data Analysis Skills": [
+        {
+            "description": "Learn Pandas library",
+            "due_date": "2024-04-10",
+            "subtasks": [
+                "Study documentation",
+                "Practice with sample datasets"
+            ],
+            "completed": false
+        },
+        {
+            "description": "Create data visualization project",
+            "due_date": "2024-04-20",
+            "subtasks": [
+                "Select dataset",
+                "Create visualizations",
+                "Write analysis report"
+            ],
+            "completed": false
+        },
+        {
+            "description": "Learn Pandas library",
+            "due_date": "2024-04-10",
+            "subtasks": [
+                "Study documentation",
+                "Practice with sample datasets"
+            ],
+            "completed": false
+        },
+        {
+            "description": "Create data visualization project",
+            "due_date": "2024-04-20",
+            "subtasks": [
+                "Select dataset",
+                "Create visualizations",
+                "Write analysis report"
+            ],
+            "completed": false
+        }
+    ],
+    "Madhur": [
+        {
+            "description": "farewell dega humme",
+            "due_date": "13/06/2025",
+            "subtasks": [],
+            "completed": true
+        },
+        {
+            "description": "party",
+            "due_date": "26-2-2",
+            "subtasks": [
+                "after",
+                "party"
+            ],
+            "completed": false
+        }
+    ],
+    "study in night": [
+        {
+            "description": "verbal",
+            "due_date": "23052025",
+            "subtasks": [],
+            "completed": true
+        }
+    ]
+}

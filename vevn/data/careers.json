@@ -1,0 +1,31 @@
+[
+    {
+      "title": "Software Developer",
+      "skills": ["python", "programming", "problem-solving"],
+      "description": "Builds software applications and systems.",
+      "growth": "High",
+      "industry": "Technology"
+    },
+    {
+      "title": "Data Scientist",
+      "skills": ["python", "data", "statistics", "machine learning"],
+      "description": "Analyzes data to generate insights.",
+      "growth": "High",
+      "industry": "Technology"
+    },
+    {
+      "title": "UI/UX Designer",
+      "skills": ["design", "creativity", "user research"],
+      "description": "Designs intuitive and beautiful user interfaces.",
+      "growth": "Medium",
+      "industry": "Design"
+    },
+    {
+      "title": "Biotech Researcher",
+      "skills": ["biology", "research", "lab work"],
+      "description": "Works in biological research and medical development.",
+      "growth": "Growing",
+      "industry": "Biotech"
+    }
+  ]
+  
