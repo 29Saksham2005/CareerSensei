@@ -1,0 +1,6 @@
+tkinter
+openai>=1.0.0
+tqdm>=4.65.0
+typing-extensions>=4.7.0
+typing-inspection>=0.4.0
+python-dotenv>=1.0.0 

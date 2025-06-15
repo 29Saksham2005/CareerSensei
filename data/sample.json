@@ -1,0 +1,39 @@
+{
+    "goals": [
+        {
+            "id": "sample-goal-1",
+            "title": "Learn Python Programming",
+            "description": "Master Python programming fundamentals and advanced concepts",
+            "deadline": "2024-12-31",
+            "status": "in_progress",
+            "tasks": [
+                {
+                    "id": "task-1",
+                    "title": "Complete Python Basics Course",
+                    "description": "Finish the introductory Python course on Codecademy",
+                    "deadline": "2024-06-30",
+                    "status": "pending"
+                },
+                {
+                    "id": "task-2",
+                    "title": "Build a Simple Project",
+                    "description": "Create a command-line calculator application",
+                    "deadline": "2024-07-15",
+                    "status": "pending"
+                }
+            ]
+        }
+    ],
+    "user_profile": {
+        "name": "Sample User",
+        "email": "sample@example.com",
+        "career_goals": [
+            "Software Development",
+            "Data Science"
+        ],
+        "skills": [
+            "Python",
+            "Problem Solving"
+        ]
+    }
+} 
