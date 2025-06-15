@@ -1,0 +1,8 @@
+venv/
+vevn/venv/
+vevn/Lib/
+vevn/Include/
+vevn/Scripts/
+vevn/pyvenv.cfg
+exp/
+exp/* 
