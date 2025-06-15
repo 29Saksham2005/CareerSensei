@@ -1,49 +1,48 @@
-# Career Sensei - Phase 1
+# Career Sensei
 
-## Phase 1 Features
-- Modern cyberpunk-themed GUI interface
-- Goal and task management system
-- AI-powered career and goal suggestions
-- Real-time analytics dashboard
-- Task completion tracking
-- Data persistence
+A Tkinter-based desktop application that helps users plan and track their career development goals. The application provides AI-powered suggestions, analytics, and notifications to help users stay on track with their career objectives.
 
-### Key Components
-1. **Goal Management**
-   - Create and manage multiple goals
-   - Add tasks with due dates and subtasks
-   - Mark tasks as complete
-   - Delete tasks
-   - Hide completed tasks
+## Features
 
-2. **AI Suggestions**
-   - Career path recommendations
-   - Goal and task suggestions
-   - Personalized planning
+- Goal Setting and Tracking
+- AI-Powered Career Suggestions
+- Progress Analytics
+- Smart Notifications
+- User Profile Management
 
-3. **Analytics Dashboard**
-   - Goal-specific progress tracking
-   - Task completion trends
-   - Weekly and monthly progress views
-   - Overall goals analysis
+## Setup
 
-## How to Run
-1. Ensure Python is installed
-2. Navigate to the project directory
-3. Run `python vevn/main.py`
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/career-sensei.git
+cd career-sensei
+```
 
-## Rollback Instructions
-To rollback to Phase 1:
-1. Delete the current `vevn` directory
-2. Copy the contents from `phase_backups/phase1` to `vevn`
-3. Run the application as normal
+2. Create and activate a virtual environment:
+```bash
+python -m venv vevn
+# On Windows
+vevn\Scripts\activate
+# On Unix or MacOS
+source vevn/bin/activate
+```
 
-## Phase 1 Completion Date
-Completed on: [Current Date]
+3. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
 
-## Next Steps
-Future phases will focus on:
-- Enhanced AI capabilities
-- More detailed analytics
-- User profile management
-- Additional customization options 
+4. Run the application:
+```bash
+python vevn/main.py
+```
+
+## Requirements
+
+- Python 3.8 or higher
+- Tkinter
+- Additional dependencies listed in requirements.txt
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details. 
