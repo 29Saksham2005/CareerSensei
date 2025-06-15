@@ -23,15 +23,20 @@ wheels/
 # Virtual Environment
 venv/
 vevn/
-exp/
-ENV/
 .env
 .venv
 env/
-Scripts/
+ENV/
+env.bak/
+venv.bak/
 activate
 activate.bat
-pyvenv.cfg
+deactivate.bat
+Scripts/
+bin/
+include/
+lib/
+share/
 
 # IDE
 .idea/
@@ -40,21 +45,36 @@ pyvenv.cfg
 *.swo
 *.sublime-workspace
 *.sublime-project
+.project
+.pydevproject
+.settings/
 
 # OS
 .DS_Store
 Thumbs.db
 desktop.ini
+$RECYCLE.BIN/
+*.lnk
 
-# Local development
+# Logs and databases
 *.log
 *.sqlite3
 *.db
+logs/
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
 .env.local
-.env.development.local
-.env.test.local
-.env.production.local
+.env.*.local
+.env.development
+.env.test
+.env.production
 
 # Project specific
 data/*.json
-!data/sample.json 
+!data/sample.json
+config.local.json
+credentials.json 
