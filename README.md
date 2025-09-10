@@ -9,7 +9,7 @@ I created Career Sensei to help professionals and students plan, track, and acce
 - **Progress Analytics:** Visualize your growth and stay motivated.
 - **Smart Notifications:** Receive reminders and celebrate your achievements.
 - **Profile Management:** Maintain your skills and career objectives in one place.
-- **Skill Gap Analysis:** Identifies missing skills for desired roles.
+- **Skill Gap Analysis:** Identifies missing skills for desired roles..
 
 ## 🚀 Getting Started
 
